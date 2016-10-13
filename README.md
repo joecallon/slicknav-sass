@@ -1,2 +1,2 @@
 # slicknav-sass
-The wonderful Slicknav, given a coating of Sass
+The wonderful [Slicknav](https://github.com/ComputerWolf/SlickNav/), given a coating of Sass
